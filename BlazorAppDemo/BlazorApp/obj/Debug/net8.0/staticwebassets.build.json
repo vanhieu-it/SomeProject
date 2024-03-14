@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Qtxoa2zfH3Fbhm3W7O4Mw8KpAv7ieqmSavpYFtcxZ4o=",
+  "Hash": "pUUE0mxM29TpmYD66VWIfiL6qajwedC6ojhnry78UZI=",
   "Source": "BlazorApp",
   "BasePath": "_content/BlazorApp",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "BlazorApp\\wwwroot",
       "Source": "BlazorApp",
-      "ContentRoot": "C:\\Users\\Hieu\\Desktop\\BlazorApp\\BlazorApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hieu\\Desktop\\SomeProject\\BlazorAppDemo\\BlazorApp\\wwwroot\\",
       "BasePath": "_content/BlazorApp",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Hieu\\Desktop\\BlazorApp\\BlazorApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorApp.styles.css",
+      "Identity": "C:\\Users\\Hieu\\Desktop\\SomeProject\\BlazorAppDemo\\BlazorApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorApp.styles.css",
       "SourceId": "BlazorApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Hieu\\Desktop\\BlazorApp\\BlazorApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Hieu\\Desktop\\SomeProject\\BlazorAppDemo\\BlazorApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/BlazorApp",
       "RelativePath": "BlazorApp.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Hieu\\Desktop\\BlazorApp\\BlazorApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorApp.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Hieu\\Desktop\\SomeProject\\BlazorAppDemo\\BlazorApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorApp.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Hieu\\Desktop\\BlazorApp\\BlazorApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorApp.bundle.scp.css",
+      "Identity": "C:\\Users\\Hieu\\Desktop\\SomeProject\\BlazorAppDemo\\BlazorApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorApp.bundle.scp.css",
       "SourceId": "BlazorApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Hieu\\Desktop\\BlazorApp\\BlazorApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Hieu\\Desktop\\SomeProject\\BlazorAppDemo\\BlazorApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/BlazorApp",
       "RelativePath": "BlazorApp.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Hieu\\Desktop\\BlazorApp\\BlazorApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorApp.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Hieu\\Desktop\\SomeProject\\BlazorAppDemo\\BlazorApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorApp.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Hieu\\Desktop\\BlazorApp\\BlazorApp\\wwwroot\\app.css",
+      "Identity": "C:\\Users\\Hieu\\Desktop\\SomeProject\\BlazorAppDemo\\BlazorApp\\wwwroot\\app.css",
       "SourceId": "BlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hieu\\Desktop\\BlazorApp\\BlazorApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hieu\\Desktop\\SomeProject\\BlazorAppDemo\\BlazorApp\\wwwroot\\",
       "BasePath": "_content/BlazorApp",
       "RelativePath": "app.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "C:\\Users\\Hieu\\Desktop\\BlazorApp\\BlazorApp\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Hieu\\Desktop\\SomeProject\\BlazorAppDemo\\BlazorApp\\wwwroot\\bootstrap\\bootstrap.min.css",
       "SourceId": "BlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hieu\\Desktop\\BlazorApp\\BlazorApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hieu\\Desktop\\SomeProject\\BlazorAppDemo\\BlazorApp\\wwwroot\\",
       "BasePath": "_content/BlazorApp",
       "RelativePath": "bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Hieu\\Desktop\\BlazorApp\\BlazorApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Hieu\\Desktop\\SomeProject\\BlazorAppDemo\\BlazorApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "BlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hieu\\Desktop\\BlazorApp\\BlazorApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hieu\\Desktop\\SomeProject\\BlazorAppDemo\\BlazorApp\\wwwroot\\",
       "BasePath": "_content/BlazorApp",
       "RelativePath": "bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Hieu\\Desktop\\BlazorApp\\BlazorApp\\wwwroot\\favicon.png",
+      "Identity": "C:\\Users\\Hieu\\Desktop\\SomeProject\\BlazorAppDemo\\BlazorApp\\wwwroot\\favicon.png",
       "SourceId": "BlazorApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hieu\\Desktop\\BlazorApp\\BlazorApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hieu\\Desktop\\SomeProject\\BlazorAppDemo\\BlazorApp\\wwwroot\\",
       "BasePath": "_content/BlazorApp",
       "RelativePath": "favicon.png",
       "AssetKind": "All",

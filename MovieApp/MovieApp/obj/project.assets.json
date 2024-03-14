@@ -12271,11 +12271,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hieu\\Desktop\\MovieApp\\MovieApp\\MovieApp.csproj",
+      "projectUniqueName": "C:\\Users\\Hieu\\Desktop\\SomeProject\\MovieApp\\MovieApp\\MovieApp.csproj",
       "projectName": "MovieApp",
-      "projectPath": "C:\\Users\\Hieu\\Desktop\\MovieApp\\MovieApp\\MovieApp.csproj",
+      "projectPath": "C:\\Users\\Hieu\\Desktop\\SomeProject\\MovieApp\\MovieApp\\MovieApp.csproj",
       "packagesPath": "C:\\Users\\Hieu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hieu\\Desktop\\MovieApp\\MovieApp\\obj\\",
+      "outputPath": "C:\\Users\\Hieu\\Desktop\\SomeProject\\MovieApp\\MovieApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Hieu\\AppData\\Roaming\\NuGet\\NuGet.Config",
