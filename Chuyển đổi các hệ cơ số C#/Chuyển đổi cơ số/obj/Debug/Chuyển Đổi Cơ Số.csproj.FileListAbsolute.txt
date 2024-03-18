@@ -1,0 +1,9 @@
+D:\C#\Chuyển đổi các hệ cơ số C#\Niên luận 1 chuyển đổi cơ số\bin\Debug\Niên luận 1 chuyển đổi cơ số.exe
+D:\C#\Chuyển đổi các hệ cơ số C#\Niên luận 1 chuyển đổi cơ số\bin\Debug\Niên luận 1 chuyển đổi cơ số.pdb
+D:\C#\Chuyển đổi các hệ cơ số C#\Niên luận 1 chuyển đổi cơ số\obj\Debug\Chuyển Đổi Cơ Số.csproj.AssemblyReference.cache
+D:\C#\Chuyển đổi các hệ cơ số C#\Niên luận 1 chuyển đổi cơ số\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\C#\Chuyển đổi các hệ cơ số C#\Niên luận 1 chuyển đổi cơ số\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\C#\Chuyển đổi các hệ cơ số C#\Niên luận 1 chuyển đổi cơ số\obj\Debug\Chuyển Đổi Cơ Số.csproj.GenerateResource.cache
+D:\C#\Chuyển đổi các hệ cơ số C#\Niên luận 1 chuyển đổi cơ số\obj\Debug\Chuyển Đổi Cơ Số.csproj.CoreCompileInputs.cache
+D:\C#\Chuyển đổi các hệ cơ số C#\Niên luận 1 chuyển đổi cơ số\obj\Debug\Niên luận 1 chuyển đổi cơ số.exe
+D:\C#\Chuyển đổi các hệ cơ số C#\Niên luận 1 chuyển đổi cơ số\obj\Debug\Niên luận 1 chuyển đổi cơ số.pdb
