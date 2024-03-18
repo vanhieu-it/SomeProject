@@ -1,0 +1,273 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\Qu\u1EA3n l\u00FD x\u1EED l\u00FD d\u1EEF li\u1EC7u ph\u1ED5 c\u1EADp ti\u1EC3u h\u1ECDc C#\\GiaoDucPCTH_Sao\\GiaoDucPCTH_Sao\\GiaoDucPhoCap\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{674D80DD-8A89-43CE-B704-79D08263760C}|GiaoDucPhoCap\\GiaoDucPhoCap.csproj|d:\\c#\\qu\u1EA3n l\u00FD x\u1EED l\u00FD d\u1EEF li\u1EC7u ph\u1ED5 c\u1EADp ti\u1EC3u h\u1ECDc c#\\giaoducpcth_sao\\giaoducpcth_sao\\giaoducphocap\\giaoducphocap\\frmthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{674D80DD-8A89-43CE-B704-79D08263760C}|GiaoDucPhoCap\\GiaoDucPhoCap.csproj|solutionrelative:giaoducphocap\\frmthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{674D80DD-8A89-43CE-B704-79D08263760C}|GiaoDucPhoCap\\GiaoDucPhoCap.csproj|d:\\c#\\qu\u1EA3n l\u00FD x\u1EED l\u00FD d\u1EEF li\u1EC7u ph\u1ED5 c\u1EADp ti\u1EC3u h\u1ECDc c#\\giaoducpcth_sao\\giaoducpcth_sao\\giaoducphocap\\giaoducphocap\\frmthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{674D80DD-8A89-43CE-B704-79D08263760C}|GiaoDucPhoCap\\GiaoDucPhoCap.csproj|solutionrelative:giaoducphocap\\frmthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{674D80DD-8A89-43CE-B704-79D08263760C}|GiaoDucPhoCap\\GiaoDucPhoCap.csproj|d:\\c#\\qu\u1EA3n l\u00FD x\u1EED l\u00FD d\u1EEF li\u1EC7u ph\u1ED5 c\u1EADp ti\u1EC3u h\u1ECDc c#\\giaoducpcth_sao\\giaoducpcth_sao\\giaoducphocap\\giaoducphocap\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{674D80DD-8A89-43CE-B704-79D08263760C}|GiaoDucPhoCap\\GiaoDucPhoCap.csproj|solutionrelative:giaoducphocap\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{674D80DD-8A89-43CE-B704-79D08263760C}|GiaoDucPhoCap\\GiaoDucPhoCap.csproj|d:\\c#\\qu\u1EA3n l\u00FD x\u1EED l\u00FD d\u1EEF li\u1EC7u ph\u1ED5 c\u1EADp ti\u1EC3u h\u1ECDc c#\\giaoducpcth_sao\\giaoducpcth_sao\\giaoducphocap\\giaoducphocap\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{674D80DD-8A89-43CE-B704-79D08263760C}|GiaoDucPhoCap\\GiaoDucPhoCap.csproj|solutionrelative:giaoducphocap\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{674D80DD-8A89-43CE-B704-79D08263760C}|GiaoDucPhoCap\\GiaoDucPhoCap.csproj|d:\\c#\\qu\u1EA3n l\u00FD x\u1EED l\u00FD d\u1EEF li\u1EC7u ph\u1ED5 c\u1EADp ti\u1EC3u h\u1ECDc c#\\giaoducpcth_sao\\giaoducpcth_sao\\giaoducphocap\\giaoducphocap\\frmthanhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{674D80DD-8A89-43CE-B704-79D08263760C}|GiaoDucPhoCap\\GiaoDucPhoCap.csproj|solutionrelative:giaoducphocap\\frmthanhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{674D80DD-8A89-43CE-B704-79D08263760C}|GiaoDucPhoCap\\GiaoDucPhoCap.csproj|d:\\c#\\qu\u1EA3n l\u00FD x\u1EED l\u00FD d\u1EEF li\u1EC7u ph\u1ED5 c\u1EADp ti\u1EC3u h\u1ECDc c#\\giaoducpcth_sao\\giaoducpcth_sao\\giaoducphocap\\giaoducphocap\\frmthonxom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{674D80DD-8A89-43CE-B704-79D08263760C}|GiaoDucPhoCap\\GiaoDucPhoCap.csproj|solutionrelative:giaoducphocap\\frmthonxom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{674D80DD-8A89-43CE-B704-79D08263760C}|GiaoDucPhoCap\\GiaoDucPhoCap.csproj|d:\\c#\\qu\u1EA3n l\u00FD x\u1EED l\u00FD d\u1EEF li\u1EC7u ph\u1ED5 c\u1EADp ti\u1EC3u h\u1ECDc c#\\giaoducpcth_sao\\giaoducpcth_sao\\giaoducphocap\\giaoducphocap\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{674D80DD-8A89-43CE-B704-79D08263760C}|GiaoDucPhoCap\\GiaoDucPhoCap.csproj|solutionrelative:giaoducphocap\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{674D80DD-8A89-43CE-B704-79D08263760C}|GiaoDucPhoCap\\GiaoDucPhoCap.csproj|d:\\c#\\qu\u1EA3n l\u00FD x\u1EED l\u00FD d\u1EEF li\u1EC7u ph\u1ED5 c\u1EADp ti\u1EC3u h\u1ECDc c#\\giaoducpcth_sao\\giaoducpcth_sao\\giaoducphocap\\giaoducphocap\\dataclasses1.dbml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{674D80DD-8A89-43CE-B704-79D08263760C}|GiaoDucPhoCap\\GiaoDucPhoCap.csproj|solutionrelative:giaoducphocap\\dataclasses1.dbml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{674D80DD-8A89-43CE-B704-79D08263760C}|GiaoDucPhoCap\\GiaoDucPhoCap.csproj|d:\\c#\\qu\u1EA3n l\u00FD x\u1EED l\u00FD d\u1EEF li\u1EC7u ph\u1ED5 c\u1EADp ti\u1EC3u h\u1ECDc c#\\giaoducpcth_sao\\giaoducpcth_sao\\giaoducphocap\\giaoducphocap\\frmdulieuphocap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{674D80DD-8A89-43CE-B704-79D08263760C}|GiaoDucPhoCap\\GiaoDucPhoCap.csproj|solutionrelative:giaoducphocap\\frmdulieuphocap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{674D80DD-8A89-43CE-B704-79D08263760C}|GiaoDucPhoCap\\GiaoDucPhoCap.csproj|d:\\c#\\qu\u1EA3n l\u00FD x\u1EED l\u00FD d\u1EEF li\u1EC7u ph\u1ED5 c\u1EADp ti\u1EC3u h\u1ECDc c#\\giaoducpcth_sao\\giaoducpcth_sao\\giaoducphocap\\giaoducphocap\\frmdulieuphocap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{674D80DD-8A89-43CE-B704-79D08263760C}|GiaoDucPhoCap\\GiaoDucPhoCap.csproj|solutionrelative:giaoducphocap\\frmdulieuphocap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{674D80DD-8A89-43CE-B704-79D08263760C}|GiaoDucPhoCap\\GiaoDucPhoCap.csproj|d:\\c#\\qu\u1EA3n l\u00FD x\u1EED l\u00FD d\u1EEF li\u1EC7u ph\u1ED5 c\u1EADp ti\u1EC3u h\u1ECDc c#\\giaoducpcth_sao\\giaoducpcth_sao\\giaoducphocap\\giaoducphocap\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{674D80DD-8A89-43CE-B704-79D08263760C}|GiaoDucPhoCap\\GiaoDucPhoCap.csproj|solutionrelative:giaoducphocap\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{674D80DD-8A89-43CE-B704-79D08263760C}|GiaoDucPhoCap\\GiaoDucPhoCap.csproj|d:\\c#\\qu\u1EA3n l\u00FD x\u1EED l\u00FD d\u1EEF li\u1EC7u ph\u1ED5 c\u1EADp ti\u1EC3u h\u1ECDc c#\\giaoducpcth_sao\\giaoducpcth_sao\\giaoducphocap\\giaoducphocap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{674D80DD-8A89-43CE-B704-79D08263760C}|GiaoDucPhoCap\\GiaoDucPhoCap.csproj|solutionrelative:giaoducphocap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{674D80DD-8A89-43CE-B704-79D08263760C}|GiaoDucPhoCap\\GiaoDucPhoCap.csproj|d:\\c#\\qu\u1EA3n l\u00FD x\u1EED l\u00FD d\u1EEF li\u1EC7u ph\u1ED5 c\u1EADp ti\u1EC3u h\u1ECDc c#\\giaoducpcth_sao\\giaoducpcth_sao\\giaoducphocap\\giaoducphocap\\frmchuho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{674D80DD-8A89-43CE-B704-79D08263760C}|GiaoDucPhoCap\\GiaoDucPhoCap.csproj|solutionrelative:giaoducphocap\\frmchuho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{674D80DD-8A89-43CE-B704-79D08263760C}|GiaoDucPhoCap\\GiaoDucPhoCap.csproj|d:\\c#\\qu\u1EA3n l\u00FD x\u1EED l\u00FD d\u1EEF li\u1EC7u ph\u1ED5 c\u1EADp ti\u1EC3u h\u1ECDc c#\\giaoducpcth_sao\\giaoducpcth_sao\\giaoducphocap\\giaoducphocap\\frmcosovatchat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{674D80DD-8A89-43CE-B704-79D08263760C}|GiaoDucPhoCap\\GiaoDucPhoCap.csproj|solutionrelative:giaoducphocap\\frmcosovatchat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|GiaoDucPhoCap||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{674D80DD-8A89-43CE-B704-79D08263760C}|GiaoDucPhoCap\\GiaoDucPhoCap.csproj|d:\\c#\\qu\u1EA3n l\u00FD x\u1EED l\u00FD d\u1EEF li\u1EC7u ph\u1ED5 c\u1EADp ti\u1EC3u h\u1ECDc c#\\giaoducpcth_sao\\giaoducpcth_sao\\giaoducphocap\\giaoducphocap\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmThongKe.cs",
+              "DocumentMoniker": "D:\\C#\\Qu\u1EA3n l\u00FD x\u1EED l\u00FD d\u1EEF li\u1EC7u ph\u1ED5 c\u1EADp ti\u1EC3u h\u1ECDc C#\\GiaoDucPCTH_Sao\\GiaoDucPCTH_Sao\\GiaoDucPhoCap\\GiaoDucPhoCap\\frmThongKe.cs",
+              "RelativeDocumentMoniker": "GiaoDucPhoCap\\frmThongKe.cs",
+              "ToolTip": "D:\\C#\\Qu\u1EA3n l\u00FD x\u1EED l\u00FD d\u1EEF li\u1EC7u ph\u1ED5 c\u1EADp ti\u1EC3u h\u1ECDc C#\\GiaoDucPCTH_Sao\\GiaoDucPCTH_Sao\\GiaoDucPhoCap\\GiaoDucPhoCap\\frmThongKe.cs",
+              "RelativeToolTip": "GiaoDucPhoCap\\frmThongKe.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAgwEAAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T07:16:56.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "D:\\C#\\Qu\u1EA3n l\u00FD x\u1EED l\u00FD d\u1EEF li\u1EC7u ph\u1ED5 c\u1EADp ti\u1EC3u h\u1ECDc C#\\GiaoDucPCTH_Sao\\GiaoDucPCTH_Sao\\GiaoDucPhoCap\\GiaoDucPhoCap\\frmMain.cs",
+              "RelativeDocumentMoniker": "GiaoDucPhoCap\\frmMain.cs",
+              "ToolTip": "D:\\C#\\Qu\u1EA3n l\u00FD x\u1EED l\u00FD d\u1EEF li\u1EC7u ph\u1ED5 c\u1EADp ti\u1EC3u h\u1ECDc C#\\GiaoDucPCTH_Sao\\GiaoDucPCTH_Sao\\GiaoDucPhoCap\\GiaoDucPhoCap\\frmMain.cs",
+              "RelativeToolTip": "GiaoDucPhoCap\\frmMain.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAIAwwCEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T07:11:40.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\Qu\u1EA3n l\u00FD x\u1EED l\u00FD d\u1EEF li\u1EC7u ph\u1ED5 c\u1EADp ti\u1EC3u h\u1ECDc C#\\GiaoDucPCTH_Sao\\GiaoDucPCTH_Sao\\GiaoDucPhoCap\\GiaoDucPhoCap\\frmMain.cs",
+              "RelativeDocumentMoniker": "GiaoDucPhoCap\\frmMain.cs",
+              "ToolTip": "D:\\C#\\Qu\u1EA3n l\u00FD x\u1EED l\u00FD d\u1EEF li\u1EC7u ph\u1ED5 c\u1EADp ti\u1EC3u h\u1ECDc C#\\GiaoDucPCTH_Sao\\GiaoDucPCTH_Sao\\GiaoDucPhoCap\\GiaoDucPhoCap\\frmMain.cs [Design]",
+              "RelativeToolTip": "GiaoDucPhoCap\\frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T07:09:53.13Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmThanhVien.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\Qu\u1EA3n l\u00FD x\u1EED l\u00FD d\u1EEF li\u1EC7u ph\u1ED5 c\u1EADp ti\u1EC3u h\u1ECDc C#\\GiaoDucPCTH_Sao\\GiaoDucPCTH_Sao\\GiaoDucPhoCap\\GiaoDucPhoCap\\frmThanhVien.cs",
+              "RelativeDocumentMoniker": "GiaoDucPhoCap\\frmThanhVien.cs",
+              "ToolTip": "D:\\C#\\Qu\u1EA3n l\u00FD x\u1EED l\u00FD d\u1EEF li\u1EC7u ph\u1ED5 c\u1EADp ti\u1EC3u h\u1ECDc C#\\GiaoDucPCTH_Sao\\GiaoDucPCTH_Sao\\GiaoDucPhoCap\\GiaoDucPhoCap\\frmThanhVien.cs [Design]",
+              "RelativeToolTip": "GiaoDucPhoCap\\frmThanhVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T07:09:34.435Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmThongKe.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\Qu\u1EA3n l\u00FD x\u1EED l\u00FD d\u1EEF li\u1EC7u ph\u1ED5 c\u1EADp ti\u1EC3u h\u1ECDc C#\\GiaoDucPCTH_Sao\\GiaoDucPCTH_Sao\\GiaoDucPhoCap\\GiaoDucPhoCap\\frmThongKe.cs",
+              "RelativeDocumentMoniker": "GiaoDucPhoCap\\frmThongKe.cs",
+              "ToolTip": "D:\\C#\\Qu\u1EA3n l\u00FD x\u1EED l\u00FD d\u1EEF li\u1EC7u ph\u1ED5 c\u1EADp ti\u1EC3u h\u1ECDc C#\\GiaoDucPCTH_Sao\\GiaoDucPCTH_Sao\\GiaoDucPhoCap\\GiaoDucPhoCap\\frmThongKe.cs [Design]",
+              "RelativeToolTip": "GiaoDucPhoCap\\frmThongKe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T07:09:32.596Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmThonXom.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\Qu\u1EA3n l\u00FD x\u1EED l\u00FD d\u1EEF li\u1EC7u ph\u1ED5 c\u1EADp ti\u1EC3u h\u1ECDc C#\\GiaoDucPCTH_Sao\\GiaoDucPCTH_Sao\\GiaoDucPhoCap\\GiaoDucPhoCap\\frmThonXom.cs",
+              "RelativeDocumentMoniker": "GiaoDucPhoCap\\frmThonXom.cs",
+              "ToolTip": "D:\\C#\\Qu\u1EA3n l\u00FD x\u1EED l\u00FD d\u1EEF li\u1EC7u ph\u1ED5 c\u1EADp ti\u1EC3u h\u1ECDc C#\\GiaoDucPCTH_Sao\\GiaoDucPCTH_Sao\\GiaoDucPhoCap\\GiaoDucPhoCap\\frmThonXom.cs [Design]",
+              "RelativeToolTip": "GiaoDucPhoCap\\frmThonXom.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T07:09:26.561Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "app.config",
+              "DocumentMoniker": "D:\\C#\\Qu\u1EA3n l\u00FD x\u1EED l\u00FD d\u1EEF li\u1EC7u ph\u1ED5 c\u1EADp ti\u1EC3u h\u1ECDc C#\\GiaoDucPCTH_Sao\\GiaoDucPCTH_Sao\\GiaoDucPhoCap\\GiaoDucPhoCap\\app.config",
+              "RelativeDocumentMoniker": "GiaoDucPhoCap\\app.config",
+              "ToolTip": "D:\\C#\\Qu\u1EA3n l\u00FD x\u1EED l\u00FD d\u1EEF li\u1EC7u ph\u1ED5 c\u1EADp ti\u1EC3u h\u1ECDc C#\\GiaoDucPCTH_Sao\\GiaoDucPCTH_Sao\\GiaoDucPhoCap\\GiaoDucPhoCap\\app.config",
+              "RelativeToolTip": "GiaoDucPhoCap\\app.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-03-18T07:07:46.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DataClasses1.dbml",
+              "DocumentMoniker": "D:\\C#\\Qu\u1EA3n l\u00FD x\u1EED l\u00FD d\u1EEF li\u1EC7u ph\u1ED5 c\u1EADp ti\u1EC3u h\u1ECDc C#\\GiaoDucPCTH_Sao\\GiaoDucPCTH_Sao\\GiaoDucPhoCap\\GiaoDucPhoCap\\DataClasses1.dbml",
+              "RelativeDocumentMoniker": "GiaoDucPhoCap\\DataClasses1.dbml",
+              "ToolTip": "D:\\C#\\Qu\u1EA3n l\u00FD x\u1EED l\u00FD d\u1EEF li\u1EC7u ph\u1ED5 c\u1EADp ti\u1EC3u h\u1ECDc C#\\GiaoDucPCTH_Sao\\GiaoDucPCTH_Sao\\GiaoDucPhoCap\\GiaoDucPhoCap\\DataClasses1.dbml",
+              "RelativeToolTip": "GiaoDucPhoCap\\DataClasses1.dbml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-18T07:07:42.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmDuLieuPhoCap.cs",
+              "DocumentMoniker": "D:\\C#\\Qu\u1EA3n l\u00FD x\u1EED l\u00FD d\u1EEF li\u1EC7u ph\u1ED5 c\u1EADp ti\u1EC3u h\u1ECDc C#\\GiaoDucPCTH_Sao\\GiaoDucPCTH_Sao\\GiaoDucPhoCap\\GiaoDucPhoCap\\frmDuLieuPhoCap.cs",
+              "RelativeDocumentMoniker": "GiaoDucPhoCap\\frmDuLieuPhoCap.cs",
+              "ToolTip": "D:\\C#\\Qu\u1EA3n l\u00FD x\u1EED l\u00FD d\u1EEF li\u1EC7u ph\u1ED5 c\u1EADp ti\u1EC3u h\u1ECDc C#\\GiaoDucPCTH_Sao\\GiaoDucPCTH_Sao\\GiaoDucPhoCap\\GiaoDucPhoCap\\frmDuLieuPhoCap.cs",
+              "RelativeToolTip": "GiaoDucPhoCap\\frmDuLieuPhoCap.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T07:07:31.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\C#\\Qu\u1EA3n l\u00FD x\u1EED l\u00FD d\u1EEF li\u1EC7u ph\u1ED5 c\u1EADp ti\u1EC3u h\u1ECDc C#\\GiaoDucPCTH_Sao\\GiaoDucPCTH_Sao\\GiaoDucPhoCap\\GiaoDucPhoCap\\packages.config",
+              "RelativeDocumentMoniker": "GiaoDucPhoCap\\packages.config",
+              "ToolTip": "D:\\C#\\Qu\u1EA3n l\u00FD x\u1EED l\u00FD d\u1EEF li\u1EC7u ph\u1ED5 c\u1EADp ti\u1EC3u h\u1ECDc C#\\GiaoDucPCTH_Sao\\GiaoDucPCTH_Sao\\GiaoDucPhoCap\\GiaoDucPhoCap\\packages.config",
+              "RelativeToolTip": "GiaoDucPhoCap\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-03-18T07:07:26.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\Qu\u1EA3n l\u00FD x\u1EED l\u00FD d\u1EEF li\u1EC7u ph\u1ED5 c\u1EADp ti\u1EC3u h\u1ECDc C#\\GiaoDucPCTH_Sao\\GiaoDucPCTH_Sao\\GiaoDucPhoCap\\GiaoDucPhoCap\\Program.cs",
+              "RelativeDocumentMoniker": "GiaoDucPhoCap\\Program.cs",
+              "ToolTip": "D:\\C#\\Qu\u1EA3n l\u00FD x\u1EED l\u00FD d\u1EEF li\u1EC7u ph\u1ED5 c\u1EADp ti\u1EC3u h\u1ECDc C#\\GiaoDucPCTH_Sao\\GiaoDucPCTH_Sao\\GiaoDucPhoCap\\GiaoDucPhoCap\\Program.cs",
+              "RelativeToolTip": "GiaoDucPhoCap\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T07:07:26.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmDuLieuPhoCap.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\Qu\u1EA3n l\u00FD x\u1EED l\u00FD d\u1EEF li\u1EC7u ph\u1ED5 c\u1EADp ti\u1EC3u h\u1ECDc C#\\GiaoDucPCTH_Sao\\GiaoDucPCTH_Sao\\GiaoDucPhoCap\\GiaoDucPhoCap\\frmDuLieuPhoCap.cs",
+              "RelativeDocumentMoniker": "GiaoDucPhoCap\\frmDuLieuPhoCap.cs",
+              "ToolTip": "D:\\C#\\Qu\u1EA3n l\u00FD x\u1EED l\u00FD d\u1EEF li\u1EC7u ph\u1ED5 c\u1EADp ti\u1EC3u h\u1ECDc C#\\GiaoDucPCTH_Sao\\GiaoDucPCTH_Sao\\GiaoDucPhoCap\\GiaoDucPhoCap\\frmDuLieuPhoCap.cs [Design]",
+              "RelativeToolTip": "GiaoDucPhoCap\\frmDuLieuPhoCap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T07:06:56.322Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmCosovatchat.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\Qu\u1EA3n l\u00FD x\u1EED l\u00FD d\u1EEF li\u1EC7u ph\u1ED5 c\u1EADp ti\u1EC3u h\u1ECDc C#\\GiaoDucPCTH_Sao\\GiaoDucPCTH_Sao\\GiaoDucPhoCap\\GiaoDucPhoCap\\frmCosovatchat.cs",
+              "RelativeDocumentMoniker": "GiaoDucPhoCap\\frmCosovatchat.cs",
+              "ToolTip": "D:\\C#\\Qu\u1EA3n l\u00FD x\u1EED l\u00FD d\u1EEF li\u1EC7u ph\u1ED5 c\u1EADp ti\u1EC3u h\u1ECDc C#\\GiaoDucPCTH_Sao\\GiaoDucPCTH_Sao\\GiaoDucPhoCap\\GiaoDucPhoCap\\frmCosovatchat.cs [Design]",
+              "RelativeToolTip": "GiaoDucPhoCap\\frmCosovatchat.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T07:06:52.913Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmChuHo.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\Qu\u1EA3n l\u00FD x\u1EED l\u00FD d\u1EEF li\u1EC7u ph\u1ED5 c\u1EADp ti\u1EC3u h\u1ECDc C#\\GiaoDucPCTH_Sao\\GiaoDucPCTH_Sao\\GiaoDucPhoCap\\GiaoDucPhoCap\\frmChuHo.cs",
+              "RelativeDocumentMoniker": "GiaoDucPhoCap\\frmChuHo.cs",
+              "ToolTip": "D:\\C#\\Qu\u1EA3n l\u00FD x\u1EED l\u00FD d\u1EEF li\u1EC7u ph\u1ED5 c\u1EADp ti\u1EC3u h\u1ECDc C#\\GiaoDucPCTH_Sao\\GiaoDucPCTH_Sao\\GiaoDucPhoCap\\GiaoDucPhoCap\\frmChuHo.cs [Design]",
+              "RelativeToolTip": "GiaoDucPhoCap\\frmChuHo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T07:06:50.306Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GiaoDucPhoCap",
+              "DocumentMoniker": "D:\\C#\\Qu\u1EA3n l\u00FD x\u1EED l\u00FD d\u1EEF li\u1EC7u ph\u1ED5 c\u1EADp ti\u1EC3u h\u1ECDc C#\\GiaoDucPCTH_Sao\\GiaoDucPCTH_Sao\\GiaoDucPhoCap\\GiaoDucPhoCap\\GiaoDucPhoCap.csproj",
+              "RelativeDocumentMoniker": "GiaoDucPhoCap\\GiaoDucPhoCap.csproj",
+              "ToolTip": "D:\\C#\\Qu\u1EA3n l\u00FD x\u1EED l\u00FD d\u1EEF li\u1EC7u ph\u1ED5 c\u1EADp ti\u1EC3u h\u1ECDc C#\\GiaoDucPCTH_Sao\\GiaoDucPCTH_Sao\\GiaoDucPhoCap\\GiaoDucPhoCap\\GiaoDucPhoCap.csproj",
+              "RelativeToolTip": "GiaoDucPhoCap\\GiaoDucPhoCap.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-18T06:59:50.188Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
